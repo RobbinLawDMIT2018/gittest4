@@ -7,7 +7,7 @@
 - from the terminal run git init and a .git hidden file is created.
 - again run git status to see that this is now a repo but NO files are tracked, RED.
 - close VS and then reopen to reset the IDE, now it can see that this is a git repo.
-- run git status to see that the files are not tracked.
+- run git status to see that the files are not tracked
 - run git add readme.md to start tracking.
 - always run git status after each command.
 - run git reset to untrack again.
