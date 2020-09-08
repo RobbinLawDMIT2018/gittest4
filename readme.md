@@ -1,7 +1,7 @@
 #git test
 - Using Windows GUI or command line create a folder where you want your local repo to be stored physically
 - open VS and File/Open the folder. This creates a .vs dir
-- create a readme.md file under the folder. Right click on folder in Solution Explorer, Add/NewFile.
+- create a readme.md or fun.txt file under the folder. Right click on folder in Solution Explorer, Add/NewFile.
 - View/Terminal. It opens at the directory path.
 - from the terminal run git init and a .git hidden file is created.
 - run git status to see that the files are not tracked.
