@@ -11,3 +11,14 @@
 - run git add . to track all files.
 - run git commit -m "First commit to local repo".
 - run git status and git log.
+- change and save the readme.md file.
+- run git status to see that the file has been modified, as git is tracking the changes, but the change is not staged yet, RED.
+- run git add . and see that the file is now staged and ready to be commited, GREEN.
+- run git commit -m "Second Commit of changed readme.md file".
+- run gh auth login to log into account.
+- run gh repo create RobbinLawDMIT2018/gittest4.
+- go via browser to github to see that the repo was created, but no files in repo.
+- run git remote -v to see that the local repo is connected to the remote.
+- run git push -u origin master to push the local repo to the remote.
+- go via browser to github to see that the repo was changed and files were added.
+- change and save the readme.md file and run git status to see that it has changed.
