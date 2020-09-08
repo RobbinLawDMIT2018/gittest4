@@ -22,3 +22,5 @@
 - run git push -u origin master to push the local repo to the remote.
 - go via browser to github to see that the repo was changed and files were added.
 - change and save the readme.md file and run git status to see that it has changed.
+- run git add . then git commit -m "Third Commit" then push -u origin master, running git status after each.
+- go via browser to github to see that the repo was changed.
